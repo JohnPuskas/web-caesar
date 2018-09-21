@@ -32,7 +32,7 @@ form = """
                 <input name="rot" type="text" value= '0'  />
             </label>
                 <textarea name="text">{0}</textarea>
-                <input type="submit" />
+                <input type="submit" /> 
         </form>
     </body>
 </html>
